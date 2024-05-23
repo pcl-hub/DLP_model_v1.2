@@ -1,1 +1,6 @@
-Rowan logo added 
+v1.1
+- simplified the calculation: removed the void structure argument
+
+v1.2
+- added Rowan logo
+- remove the inner loop for calculation by storing calculated values in stageConversionProfiles
